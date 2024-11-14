@@ -1,0 +1,10 @@
+h1{
+    background-color: rgb(17, 201, 170);
+    color: brown;
+    margin: 5px;
+    font-size: 300px;
+    font-family: italic;
+    font-weight: bold;
+    font-style: italic;
+    border: 5px solid black;
+}
